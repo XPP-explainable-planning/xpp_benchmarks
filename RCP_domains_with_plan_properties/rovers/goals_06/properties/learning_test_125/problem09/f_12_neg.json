@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_12_neg", "type": "LTL", "formula": "! <> && communicated_soil_data(waypoint0) <> && at(rover0,waypoint0) empty(rover1store)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

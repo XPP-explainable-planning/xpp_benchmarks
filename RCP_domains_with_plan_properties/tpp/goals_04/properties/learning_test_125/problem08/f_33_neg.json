@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_33_neg", "type": "LTL", "formula": "! W && ! loaded(goods2,truck1) ! loaded(goods3,truck1) && loaded(goods2,truck1) ! loaded(goods3,truck1)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

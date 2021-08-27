@@ -1,0 +1,33 @@
+(define (problem blocksworld-problem-b6-c1-enc0)
+(:domain blocksworld)
+(:objects
+b0 b1 b2 b3 b4 b5 - block
+h0 h1 - hand
+)
+(:init
+(= (total-cost) 0)
+(handempty h0)
+(= (ecost h0) 1)
+(handempty h1)
+(= (ecost h1) 1)
+(ontable b4)
+(on b1 b4)
+(on b5 b1)
+(ontable b3)
+(clear b2)
+(on b2 b5)
+(clear b0)
+(on b0 b3)
+)
+(:goal (and
+(ontable b0)
+(on b3 b0)
+(on b2 b3)
+(on b1 b2)
+(clear b4)
+(ontable b4)
+(clear b5)
+(on b5 b1)
+))
+(:metric minimize (total-cost))
+)

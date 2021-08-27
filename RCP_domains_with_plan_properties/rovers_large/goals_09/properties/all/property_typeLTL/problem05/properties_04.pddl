@@ -1,0 +1,25 @@
+state_set perform_rock_sample_rover1_waypoint14 1
+sample_rock rover1 store waypoint14
+
+soft-LTL_property preferred_rover1_rock_sample_waypoint14
+<> perform_rock_sample_rover1_waypoint14
+
+
+state_set perform_rock_sample_rover1_waypoint7 1
+sample_rock rover1 store waypoint7
+
+soft-LTL_property preferred_rover1_rock_sample_waypoint7
+<> perform_rock_sample_rover1_waypoint7
+
+
+soft-LTL_property achive_image_data_objective2_before_soil_data_waypoint8
+U ! communicated_soil_data(waypoint8) communicated_image_data(objective2,high_res)
+
+
+state_set take_image_data_rover0_objective2 1
+take_image rover0 waypoint objective2 camera mode
+
+soft-LTL_property preferred_rover0_image_data_objective2
+<> take_image_data_rover0_objective2
+
+

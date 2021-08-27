@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_6_pos", "type": "LTL", "formula": "<> && communicated_rock_data(waypoint2) empty(rover1store)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

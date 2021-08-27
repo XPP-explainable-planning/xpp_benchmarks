@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_8_neg", "type": "LTL", "formula": "! [] || at(truck0,market0) at(truck1,depot0)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

@@ -1,0 +1,21 @@
+set perform_soil_sample_rover0_waypoint6 1
+sample_soil rover0 store waypoint6
+
+soft-AS_property preferred_rover0_soil_sample_waypoint6
+perform_soil_sample_rover0_waypoint6
+
+
+set take_image_data_camera2_objective0 1
+take_image rover waypoint objective0 camera2 mode
+
+soft-AS_property preferred_camera2_image_data_objective0
+take_image_data_camera2_objective0
+
+
+set take_image_data_rover0_objective2 1
+take_image rover0 waypoint objective2 camera mode
+
+soft-AS_property preferred_rover0_image_data_objective2
+take_image_data_rover0_objective2
+
+

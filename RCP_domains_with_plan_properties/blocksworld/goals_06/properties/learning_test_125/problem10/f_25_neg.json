@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_25_neg", "type": "LTL", "formula": "! [] -> holding(b4,h0) W holding(b4,h0) [] ! holding(b4,h0)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

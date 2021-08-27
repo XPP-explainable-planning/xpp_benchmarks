@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_12_neg", "type": "LTL", "formula": "! W && ! communicated_soil_data(waypoint1) ! communicated_image_data(objective1,high_res) && communicated_soil_data(waypoint1) ! communicated_image_data(objective1,high_res)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

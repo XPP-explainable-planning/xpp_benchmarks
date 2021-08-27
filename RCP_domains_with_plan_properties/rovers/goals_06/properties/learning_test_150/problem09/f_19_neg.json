@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_19_neg", "type": "LTL", "formula": "! <> -> at(rover0,waypoint3) X [] at(rover0,waypoint0)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

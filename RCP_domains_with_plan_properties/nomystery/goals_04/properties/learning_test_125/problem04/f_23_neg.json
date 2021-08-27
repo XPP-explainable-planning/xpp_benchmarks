@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_23_neg", "type": "LTL", "formula": "! [] -> in(p2,t0) W in(p2,t0) [] ! in(p2,t0)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

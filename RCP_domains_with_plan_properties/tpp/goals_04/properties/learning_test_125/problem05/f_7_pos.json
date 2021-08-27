@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_7_pos", "type": "LTL", "formula": "[] || available(goods0,market1) at(truck1,depot0)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

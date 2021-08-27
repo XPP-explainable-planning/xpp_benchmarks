@@ -1,0 +1,7 @@
+state_set perform_soil_sample_rover0_waypoint8 1
+sample_soil rover0 store waypoint8
+
+soft-LTL_property preferred_rover0_soil_sample_waypoint8
+<> perform_soil_sample_rover0_waypoint8
+
+

@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_22_neg", "type": "LTL", "formula": "! <> && at(rover1,waypoint3) <> && at(rover0,waypoint1) empty(rover1store)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

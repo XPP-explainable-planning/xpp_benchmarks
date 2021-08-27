@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_14_pos", "type": "LTL", "formula": "&& <> [] calibrated(camera1,rover0) [] -> calibrated(camera1,rover0) [] calibrated(camera1,rover0)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_30_neg", "type": "LTL", "formula": "! && <> [] loaded(goods3,truck1) [] -> loaded(goods3,truck1) [] loaded(goods3,truck1)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

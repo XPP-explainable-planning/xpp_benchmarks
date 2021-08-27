@@ -1,0 +1,4 @@
+soft-LTL_property achive_soil_data_waypoint8_before_rock_data_waypoint2
+U ! communicated_rock_data(waypoint2) communicated_soil_data(waypoint8)
+
+

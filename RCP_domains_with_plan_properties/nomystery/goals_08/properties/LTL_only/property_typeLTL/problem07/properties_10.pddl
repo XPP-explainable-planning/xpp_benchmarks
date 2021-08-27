@@ -1,0 +1,49 @@
+soft-LTL_property load_p7before2
+U ! at(p2,l0) at(p7,l3)
+
+
+state_set load_p6 1
+load p6 truck location
+
+soft-LTL_property load_package6_only_once
+! <> && load_p6 X <> load_p6
+
+
+state_set load_p5 1
+load p5 truck location
+
+soft-LTL_property load_package5_only_once
+! <> && load_p5 X <> load_p5
+
+
+soft-LTL_property not_together_in_truck_p1_p7
+[] !  || && in(p1,t0) in(p7,t0) && in(p1,t1) in(p7,t1) 
+
+
+soft-LTL_property not_together_in_truck_p0_p3
+[] !  || && in(p0,t0) in(p3,t0) && in(p0,t1) in(p3,t1) 
+
+
+soft-LTL_property not_together_in_truck_p3_p4
+[] !  || && in(p3,t0) in(p4,t0) && in(p3,t1) in(p4,t1) 
+
+
+soft-LTL_property load_p2before3
+U ! at(p3,l2) at(p2,l0)
+
+
+soft-LTL_property not_together_in_truck_p5_p6
+[] !  || && in(p5,t0) in(p6,t0) && in(p5,t1) in(p6,t1) 
+
+
+soft-LTL_property load_p6before7
+U ! at(p7,l3) at(p6,l2)
+
+
+state_set load_p4 1
+load p4 truck location
+
+soft-LTL_property load_package4_only_once
+! <> && load_p4 X <> load_p4
+
+

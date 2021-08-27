@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_28_pos", "type": "LTL", "formula": "&& <> [] available(goods2,market4) [] -> available(goods2,market4) [] available(goods2,market4)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

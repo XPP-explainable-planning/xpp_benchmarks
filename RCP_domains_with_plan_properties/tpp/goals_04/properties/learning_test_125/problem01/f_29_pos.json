@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_29_pos", "type": "LTL", "formula": "W && ! loaded(goods1,truck1) ! loaded(goods0,truck0) && loaded(goods1,truck1) ! loaded(goods0,truck0)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

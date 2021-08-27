@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_0_neg", "type": "LTL", "formula": "! <> calibrated(camera7,rover1)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

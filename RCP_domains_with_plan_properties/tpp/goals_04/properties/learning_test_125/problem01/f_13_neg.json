@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_13_neg", "type": "LTL", "formula": "! && U && ! at(truck0,market0) ! stored(goods1) stored(goods2) U ! stored(goods1) at(truck0,market0)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

@@ -1,0 +1,8 @@
+soft-LTL_property take_image_objectiveobjective0_before_soil_data_atwaypoint0
+U ! communicated_soil_data(waypoint0) communicated_image_data(objective0,high_res)
+
+
+soft-LTL_property take_image_objectiveobjective0_before_rock_data_atwaypoint0
+U ! communicated_rock_data(waypoint0) communicated_image_data(objective0,high_res)
+
+

@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_13_neg", "type": "LTL", "formula": "! && U && ! holding(b2,h0) ! on(b4,b3) handempty(h1) U ! on(b4,b3) holding(b2,h0)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

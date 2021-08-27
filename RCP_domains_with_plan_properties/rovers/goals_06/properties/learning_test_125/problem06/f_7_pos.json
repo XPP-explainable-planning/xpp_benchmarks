@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_7_pos", "type": "LTL", "formula": "[] ! && communicated_soil_data(waypoint1) calibrated(camera6,rover1)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

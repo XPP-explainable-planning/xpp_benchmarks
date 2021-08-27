@@ -1,0 +1,4 @@
+soft-LTL_property achive_rock_data_waypoint2_before_image_data_objective0
+U ! communicated_image_data(objective0,colour) communicated_rock_data(waypoint2)
+
+

@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_4_pos", "type": "LTL", "formula": "<> || loaded(goods2,truck0) at(truck0,market2)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

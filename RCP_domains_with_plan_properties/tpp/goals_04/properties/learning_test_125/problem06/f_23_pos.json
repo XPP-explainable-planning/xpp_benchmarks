@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_23_pos", "type": "LTL", "formula": "<> && && available(goods0,market1) loaded(goods3,truck1) <> available(goods1,market1)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

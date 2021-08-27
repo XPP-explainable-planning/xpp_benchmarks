@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_4_neg", "type": "LTL", "formula": "! [] || empty(rover1store) communicated_image_data(objective1,high_res)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

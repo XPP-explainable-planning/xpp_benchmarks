@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_1_pos", "type": "LTL", "formula": "[] || at(rover0,waypoint3) empty(rover1store)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

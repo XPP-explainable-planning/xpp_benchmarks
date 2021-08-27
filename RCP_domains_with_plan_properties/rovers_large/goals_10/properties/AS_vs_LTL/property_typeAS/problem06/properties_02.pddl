@@ -1,0 +1,14 @@
+set perform_soil_sample_rover0_waypoint13 1
+sample_soil rover0 store waypoint13
+
+soft-AS_property preferred_rover0_soil_sample_waypoint13
+perform_soil_sample_rover0_waypoint13
+
+
+set perform_soil_sample_rover1_waypoint2 1
+sample_soil rover1 store waypoint2
+
+soft-AS_property preferred_rover1_soil_sample_waypoint2
+perform_soil_sample_rover1_waypoint2
+
+

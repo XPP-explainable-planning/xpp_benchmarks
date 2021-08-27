@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_13_pos", "type": "LTL", "formula": "U ! holding(b1,h0) holding(b0,h0)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

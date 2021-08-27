@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_21_neg", "type": "LTL", "formula": "! <> && && at(t1,l0) in(p3,t0) <> at(p3,l2)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

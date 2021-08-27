@@ -1,0 +1,4 @@
+soft-LTL_property achive_soil_data_waypoint9_before_image_data_objective1
+U ! communicated_image_data(objective1,low_res) communicated_soil_data(waypoint9)
+
+

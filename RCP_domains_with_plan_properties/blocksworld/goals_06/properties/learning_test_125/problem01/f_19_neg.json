@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_19_neg", "type": "LTL", "formula": "! [] ! && ontable(b5) on(b4,b1)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_16_pos", "type": "LTL", "formula": "W && ! calibrated(camera1,rover0) ! have_rock_analysis(rover0,waypoint0) && calibrated(camera1,rover0) ! have_rock_analysis(rover0,waypoint0)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

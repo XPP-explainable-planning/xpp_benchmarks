@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_13_neg", "type": "LTL", "formula": "! && U && ! at(rover0,waypoint1) ! communicated_rock_data(waypoint2) full(rover0store) U ! communicated_rock_data(waypoint2) at(rover0,waypoint1)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

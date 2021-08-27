@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_1_pos", "type": "LTL", "formula": "[] || communicated_image_data(objective1,high_res) empty(rover0store)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

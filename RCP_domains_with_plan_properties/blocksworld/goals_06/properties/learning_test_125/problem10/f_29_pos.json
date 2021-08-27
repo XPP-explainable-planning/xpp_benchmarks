@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_29_pos", "type": "LTL", "formula": "W && ! on(b2,b5) ! holding(b3,h1) && on(b2,b5) ! holding(b3,h1)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}
