@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_20_pos", "type": "LTL", "formula": "<> -> empty(rover0store) X [] have_soil_analysis(rover1,waypoint1)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

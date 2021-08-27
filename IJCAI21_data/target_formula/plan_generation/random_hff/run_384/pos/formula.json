@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_31_pos", "type": "LTL", "formula": "W && ! in(p2,t1) ! at(p0,l2) && in(p2,t1) ! at(p0,l2)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

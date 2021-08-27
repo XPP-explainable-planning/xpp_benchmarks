@@ -1,0 +1,40 @@
+{
+  "algorithm": "randomHFF_14",
+  "build_options": [],
+  "component_options": [
+    "--heuristic",
+    "hrandom=random(seed=14)",
+    "--heuristic",
+    "hff=ff(transform=adapt_costs(one))",
+    "--search",
+    "lazy_greedy([hff,hrandom],preferred=[hff], cost_type=one,reopen_closed=false)"
+  ],
+  "domain": "rovers",
+  "driver_options": [
+    "--validate",
+    "--overall-time-limit",
+    "30m",
+    "--overall-memory-limit",
+    "3584M",
+    "--search-time-limit",
+    "30m",
+    "--search-memory-limit",
+    "4G"
+  ],
+  "experiment_name": "random_hff_150",
+  "global_revision": "a94bb0cdd",
+  "id": [
+    "randomHFF_14",
+    "rovers",
+    "goals_06/scale_150/problem02.pddl",
+    "/goals_06/properties/learning_test_150/problem02/f_24_pos.json"
+  ],
+  "local_revision": "HEAD",
+  "problem": "goals_06/scale_150/problem02.pddl",
+  "repo": "XXX/planner/downward-2020/",
+  "resources": [
+    "/goals_06/properties/learning_test_150/problem02/f_24_pos.json"
+  ],
+  "revision_summary": "a94bb0cdd",
+  "run_dir": "runs-37301-37400/37347"
+}

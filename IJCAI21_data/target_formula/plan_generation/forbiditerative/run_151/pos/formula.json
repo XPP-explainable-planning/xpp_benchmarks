@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_23_pos", "type": "LTL", "formula": "<> && && holding(b4,h0) ontable(b3) <> handempty(h1)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

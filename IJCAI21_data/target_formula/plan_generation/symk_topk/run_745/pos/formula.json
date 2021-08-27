@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_24_pos", "type": "LTL", "formula": "<> && && empty(rover0store) communicated_rock_data(waypoint2) <> full(rover1store)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

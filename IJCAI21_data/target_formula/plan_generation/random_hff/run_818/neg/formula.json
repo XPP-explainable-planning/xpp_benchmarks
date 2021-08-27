@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_6_neg", "type": "LTL", "formula": "! [] || communicated_rock_data(waypoint1) at(rover0,waypoint4)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

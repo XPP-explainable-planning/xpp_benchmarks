@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_3_pos", "type": "LTL", "formula": "<> && at(t1,l4) at(t0,l2)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_7_pos", "type": "LTL", "formula": "[] || have_rock_analysis(rover1,waypoint1) empty(rover1store)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

@@ -1,0 +1,40 @@
+{
+  "algorithm": "randomHFF_21",
+  "build_options": [],
+  "component_options": [
+    "--heuristic",
+    "hrandom=random(seed=21)",
+    "--heuristic",
+    "hff=ff(transform=adapt_costs(one))",
+    "--search",
+    "lazy_greedy([hff,hrandom],preferred=[hff], cost_type=one,reopen_closed=false)"
+  ],
+  "domain": "blocksworld",
+  "driver_options": [
+    "--validate",
+    "--overall-time-limit",
+    "30m",
+    "--overall-memory-limit",
+    "3584M",
+    "--search-time-limit",
+    "30m",
+    "--search-memory-limit",
+    "4G"
+  ],
+  "experiment_name": "random_hff_150",
+  "global_revision": "a94bb0cdd",
+  "id": [
+    "randomHFF_21",
+    "blocksworld",
+    "goals_06/scale_150/problem06.pddl",
+    "/goals_06/properties/learning_test_150/problem06/f_23_pos.json"
+  ],
+  "local_revision": "HEAD",
+  "problem": "goals_06/scale_150/problem06.pddl",
+  "repo": "XXX/planner/downward-2020/",
+  "resources": [
+    "/goals_06/properties/learning_test_150/problem06/f_23_pos.json"
+  ],
+  "revision_summary": "a94bb0cdd",
+  "run_dir": "runs-54201-54300/54276"
+}

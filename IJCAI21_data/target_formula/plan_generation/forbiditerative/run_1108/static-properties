@@ -1,0 +1,39 @@
+{
+  "algorithm": "forbiditerative",
+  "build_options": [
+    "release64"
+  ],
+  "component_options": [
+    25
+  ],
+  "domain": "tpp",
+  "driver_options": [
+    "--validate",
+    "--overall-time-limit",
+    "30m",
+    "--overall-memory-limit",
+    "3584M",
+    "--build",
+    "release64",
+    "--search-time-limit",
+    "30m",
+    "--search-memory-limit",
+    "4G"
+  ],
+  "experiment_name": "forbiditerative_150",
+  "global_revision": "e70c787",
+  "id": [
+    "forbiditerative",
+    "tpp",
+    "goals_04/scale_150/problem05.pddl",
+    "/goals_04/properties/learning_test_150/problem05/f_33_pos.json"
+  ],
+  "local_revision": "HEAD",
+  "problem": "goals_04/scale_150/problem05.pddl",
+  "repo": "XXX/planner/forbiditerative/",
+  "resources": [
+    "/goals_04/properties/learning_test_150/problem05/f_33_pos.json"
+  ],
+  "revision_summary": "e70c787",
+  "run_dir": "runs-02201-02300/02226"
+}

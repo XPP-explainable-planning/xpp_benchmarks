@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_27_pos", "type": "LTL", "formula": "[] -> at(rover0,waypoint1) W at(rover0,waypoint1) [] ! at(rover0,waypoint1)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

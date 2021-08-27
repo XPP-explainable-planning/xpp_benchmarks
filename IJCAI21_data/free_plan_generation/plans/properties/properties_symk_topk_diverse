@@ -1,0 +1,1592 @@
+{
+  "symK_top_k_diverse_action-blocksworld-goals_06/scale_150/problem01.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "blocksworld",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "blocksworld",
+      "goals_06/scale_150/problem01.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_06/scale_150/problem01.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00001",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-blocksworld-goals_06/scale_150/problem02.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "blocksworld",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "blocksworld",
+      "goals_06/scale_150/problem02.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_06/scale_150/problem02.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00002",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-blocksworld-goals_06/scale_150/problem03.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "blocksworld",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "blocksworld",
+      "goals_06/scale_150/problem03.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [
+      [
+        4,
+        0.783705
+      ]
+    ],
+    "problem": "goals_06/scale_150/problem03.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00003",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-blocksworld-goals_06/scale_150/problem04.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "blocksworld",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "blocksworld",
+      "goals_06/scale_150/problem04.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_06/scale_150/problem04.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00004",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-blocksworld-goals_06/scale_150/problem05.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "blocksworld",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "blocksworld",
+      "goals_06/scale_150/problem05.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [
+      [
+        4,
+        0.638033
+      ]
+    ],
+    "problem": "goals_06/scale_150/problem05.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00005",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-blocksworld-goals_06/scale_150/problem06.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "blocksworld",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "blocksworld",
+      "goals_06/scale_150/problem06.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [
+      [
+        29,
+        3.9148
+      ]
+    ],
+    "problem": "goals_06/scale_150/problem06.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00006",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-blocksworld-goals_06/scale_150/problem07.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "blocksworld",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "blocksworld",
+      "goals_06/scale_150/problem07.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [
+      [
+        14,
+        3.35412
+      ]
+    ],
+    "problem": "goals_06/scale_150/problem07.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00007",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-blocksworld-goals_06/scale_150/problem08.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "blocksworld",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "blocksworld",
+      "goals_06/scale_150/problem08.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [
+      [
+        14,
+        2.061
+      ]
+    ],
+    "problem": "goals_06/scale_150/problem08.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00008",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-blocksworld-goals_06/scale_150/problem09.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "blocksworld",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "blocksworld",
+      "goals_06/scale_150/problem09.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [
+      [
+        8,
+        1.73264
+      ]
+    ],
+    "problem": "goals_06/scale_150/problem09.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00009",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-blocksworld-goals_06/scale_150/problem10.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "blocksworld",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "blocksworld",
+      "goals_06/scale_150/problem10.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [
+      [
+        2,
+        0.739115
+      ]
+    ],
+    "problem": "goals_06/scale_150/problem10.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00010",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-nomystery-goals_04/scale_150/problem01.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "nomystery",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "nomystery",
+      "goals_04/scale_150/problem01.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem01.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00011"
+  },
+  "symK_top_k_diverse_action-nomystery-goals_04/scale_150/problem02.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "nomystery",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "nomystery",
+      "goals_04/scale_150/problem02.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem02.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00012",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-nomystery-goals_04/scale_150/problem03.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "nomystery",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "nomystery",
+      "goals_04/scale_150/problem03.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem03.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00013",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-nomystery-goals_04/scale_150/problem04.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "nomystery",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "nomystery",
+      "goals_04/scale_150/problem04.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem04.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00014"
+  },
+  "symK_top_k_diverse_action-nomystery-goals_04/scale_150/problem05.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "nomystery",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "nomystery",
+      "goals_04/scale_150/problem05.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem05.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00015"
+  },
+  "symK_top_k_diverse_action-nomystery-goals_04/scale_150/problem06.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "nomystery",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "nomystery",
+      "goals_04/scale_150/problem06.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem06.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00016",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-nomystery-goals_04/scale_150/problem07.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "nomystery",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "nomystery",
+      "goals_04/scale_150/problem07.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem07.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00017"
+  },
+  "symK_top_k_diverse_action-nomystery-goals_04/scale_150/problem08.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "nomystery",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "nomystery",
+      "goals_04/scale_150/problem08.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem08.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00018",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-nomystery-goals_04/scale_150/problem09.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "nomystery",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "nomystery",
+      "goals_04/scale_150/problem09.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem09.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00019"
+  },
+  "symK_top_k_diverse_action-nomystery-goals_04/scale_150/problem10.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "nomystery",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "nomystery",
+      "goals_04/scale_150/problem10.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem10.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00020",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-rovers-goals_06/scale_150/problem01.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "rovers",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "rovers",
+      "goals_06/scale_150/problem01.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_06/scale_150/problem01.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00021"
+  },
+  "symK_top_k_diverse_action-rovers-goals_06/scale_150/problem02.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "rovers",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "rovers",
+      "goals_06/scale_150/problem02.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_06/scale_150/problem02.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00022"
+  },
+  "symK_top_k_diverse_action-rovers-goals_06/scale_150/problem03.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "rovers",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "rovers",
+      "goals_06/scale_150/problem03.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_06/scale_150/problem03.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00023"
+  },
+  "symK_top_k_diverse_action-rovers-goals_06/scale_150/problem04.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "rovers",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "rovers",
+      "goals_06/scale_150/problem04.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_06/scale_150/problem04.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00024"
+  },
+  "symK_top_k_diverse_action-rovers-goals_06/scale_150/problem05.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "rovers",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "rovers",
+      "goals_06/scale_150/problem05.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_06/scale_150/problem05.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00025"
+  },
+  "symK_top_k_diverse_action-rovers-goals_06/scale_150/problem06.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "rovers",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "rovers",
+      "goals_06/scale_150/problem06.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_06/scale_150/problem06.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00026"
+  },
+  "symK_top_k_diverse_action-rovers-goals_06/scale_150/problem07.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "rovers",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "rovers",
+      "goals_06/scale_150/problem07.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_06/scale_150/problem07.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00027"
+  },
+  "symK_top_k_diverse_action-rovers-goals_06/scale_150/problem08.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "rovers",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "rovers",
+      "goals_06/scale_150/problem08.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_06/scale_150/problem08.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00028"
+  },
+  "symK_top_k_diverse_action-rovers-goals_06/scale_150/problem09.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "rovers",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "rovers",
+      "goals_06/scale_150/problem09.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_06/scale_150/problem09.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00029"
+  },
+  "symK_top_k_diverse_action-rovers-goals_06/scale_150/problem10.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "rovers",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "rovers",
+      "goals_06/scale_150/problem10.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_06/scale_150/problem10.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00030"
+  },
+  "symK_top_k_diverse_action-tpp-goals_04/scale_150/problem01.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "tpp",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "tpp",
+      "goals_04/scale_150/problem01.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem01.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00031",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-tpp-goals_04/scale_150/problem02.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "tpp",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "tpp",
+      "goals_04/scale_150/problem02.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem02.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00032",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-tpp-goals_04/scale_150/problem03.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "tpp",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "tpp",
+      "goals_04/scale_150/problem03.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem03.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00033",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-tpp-goals_04/scale_150/problem04.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "tpp",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "tpp",
+      "goals_04/scale_150/problem04.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem04.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00034",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-tpp-goals_04/scale_150/problem05.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "tpp",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "tpp",
+      "goals_04/scale_150/problem05.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem05.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00035",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-tpp-goals_04/scale_150/problem06.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "tpp",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "tpp",
+      "goals_04/scale_150/problem06.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem06.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00036",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-tpp-goals_04/scale_150/problem07.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "tpp",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "tpp",
+      "goals_04/scale_150/problem07.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem07.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00037",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-tpp-goals_04/scale_150/problem08.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "tpp",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "tpp",
+      "goals_04/scale_150/problem08.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem08.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00038",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-tpp-goals_04/scale_150/problem09.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "tpp",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "tpp",
+      "goals_04/scale_150/problem09.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem09.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00039",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  },
+  "symK_top_k_diverse_action-tpp-goals_04/scale_150/problem10.pddl-empty_exp_setting.json": {
+    "algorithm": "symK_top_k_diverse_action",
+    "build_options": [],
+    "component_options": [
+      "--search",
+      "symk-bd(plan_selection=top_k_diverse_action(num_plans=50))"
+    ],
+    "domain": "tpp",
+    "driver_options": [
+      "--validate",
+      "--overall-time-limit",
+      "30m",
+      "--overall-memory-limit",
+      "3584M",
+      "--search-time-limit",
+      "30m",
+      "--search-memory-limit",
+      "4G"
+    ],
+    "experiment_name": "symk_topk_diverse",
+    "global_revision": "3e7ce44",
+    "id": [
+      "symK_top_k_diverse_action",
+      "tpp",
+      "goals_04/scale_150/problem10.pddl",
+      "empty_exp_setting.json"
+    ],
+    "local_revision": "HEAD",
+    "plans": [],
+    "problem": "goals_04/scale_150/problem10.pddl",
+    "repo": "XXX/planner/symk/",
+    "resources": [
+      "empty_exp_setting.json"
+    ],
+    "revision_summary": "3e7ce44",
+    "run_dir": "runs-00001-00100/00040",
+    "unexplained_errors": [
+      "run.err: validate needs one or two PDDL input files.\n"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_19_neg", "type": "LTL", "formula": "! [] ! && at(rover0,waypoint1) have_soil_analysis(rover1,waypoint2)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}
