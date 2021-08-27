@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_18_neg", "type": "LTL", "formula": "! <> && available(goods0,market3) stored(goods0)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

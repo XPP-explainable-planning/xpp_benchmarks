@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_7_neg", "type": "LTL", "formula": "! [] ! full(rover0store)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

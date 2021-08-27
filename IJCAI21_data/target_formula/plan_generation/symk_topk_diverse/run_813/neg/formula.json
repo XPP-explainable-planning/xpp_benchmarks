@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_28_neg", "type": "LTL", "formula": "! W && ! have_rock_analysis(rover1,waypoint1) ! calibrated(camera7,rover1) && have_rock_analysis(rover1,waypoint1) ! calibrated(camera7,rover1)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

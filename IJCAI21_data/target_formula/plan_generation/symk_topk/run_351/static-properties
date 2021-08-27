@@ -1,0 +1,36 @@
+{
+  "algorithm": "symK_top_k",
+  "build_options": [],
+  "component_options": [
+    "--search",
+    "symk-bd(plan_selection=top_k(num_plans=25))"
+  ],
+  "domain": "nomystery",
+  "driver_options": [
+    "--validate",
+    "--overall-time-limit",
+    "30m",
+    "--overall-memory-limit",
+    "3584M",
+    "--search-time-limit",
+    "30m",
+    "--search-memory-limit",
+    "4G"
+  ],
+  "experiment_name": "symk_topk_150",
+  "global_revision": "f4b45b2",
+  "id": [
+    "symK_top_k",
+    "nomystery",
+    "goals_04/scale_150/problem01.pddl",
+    "/goals_04/properties/learning_test_150/problem01/f_30_pos.json"
+  ],
+  "local_revision": "HEAD",
+  "problem": "goals_04/scale_150/problem01.pddl",
+  "repo": "XXX/planner/symk/",
+  "resources": [
+    "/goals_04/properties/learning_test_150/problem01/f_30_pos.json"
+  ],
+  "revision_summary": "f4b45b2",
+  "run_dir": "runs-00601-00700/00685"
+}

@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_21_pos", "type": "LTL", "formula": "<> && && full(rover1store) have_soil_analysis(rover1,waypoint1) <> communicated_soil_data(waypoint1)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_5_neg", "type": "LTL", "formula": "! <> || calibrated(camera6,rover1) have_soil_analysis(rover1,waypoint1)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

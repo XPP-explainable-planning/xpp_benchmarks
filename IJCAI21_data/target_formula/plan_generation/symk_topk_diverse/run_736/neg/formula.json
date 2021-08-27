@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_16_neg", "type": "LTL", "formula": "! && U && ! at(rover0,waypoint0) ! at(rover0,waypoint0) at(rover1,waypoint2) U ! at(rover0,waypoint0) at(rover0,waypoint0)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_29_neg", "type": "LTL", "formula": "! W && ! at(rover0,waypoint1) ! communicated_soil_data(waypoint1) && at(rover0,waypoint1) ! communicated_soil_data(waypoint1)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

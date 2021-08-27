@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_19_pos", "type": "LTL", "formula": "<> && at(rover1,waypoint4) <> have_rock_analysis(rover1,waypoint2)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}

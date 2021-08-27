@@ -1,0 +1,14 @@
+{
+"plan_properties": [
+{ "name": "f_29_neg", "type": "LTL", "formula": "! W && ! communicated_rock_data(waypoint2) ! communicated_rock_data(waypoint1) && communicated_rock_data(waypoint2) ! communicated_rock_data(waypoint1)", "actionSets": [] }
+
+],
+"hard_goals": [
+
+],
+
+"soft_goals": [
+
+]
+
+}
